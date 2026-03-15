@@ -15,9 +15,9 @@
 
 | API | JSON's de retorno |
 | --- | --- | 
-| **Cat Fact API** | 
-| **PokeAP** | 
-| **Dog CEO API** |
-| **Advice Slip API** |
-| **ViaCep API** |
+| **Cat Fact API** | [Resposta 1](Resposta1_Catfact.json) <br> [Resposta 2](Resposta2_Catfact.json) |
+| **PokeAPI** | [Resposta 1](Resposta1_Pokeapi.json) <br> [Resposta 2](Resposta2_Pokeapi.json) |
+| **Dog CEO API** | [Resposta 1](Resposta1_DOG.json) <br> [Resposta 2](Resposta2_DOG.json) |
+| **Advice Slip API** | [Resposta 1](Resposta1_Advice.json) <br> [Resposta 2](Resposta2_Advice.json) |
+| **ViaCep API** | [Resposta 1](Resposta1_Viaep.json) <br> [Resposta 2](Resposta2_Viaep.json) |
 
